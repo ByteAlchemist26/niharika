@@ -1,1 +1,1 @@
-print("Hello World")
+print("addition", 45 + 34)
